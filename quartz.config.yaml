@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: candy.yiyuemeow.com
+  baseUrl: candy.yiyuemeow.com/Jiangmi-Notes
   ignorePatterns:
     - private
     - templates
